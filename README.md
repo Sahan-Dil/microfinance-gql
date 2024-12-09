@@ -45,4 +45,4 @@ microfinance-gql/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-organization/microfinance-gql.git
+   git clone https://github.com/Sahan-Dil/microfinance-gql.git
