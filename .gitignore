@@ -1,0 +1,57 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Runtime
+dist/
+out/
+build/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Debugging
+*.swp
+*.swo
+*.swn
+.idea/
+.vscode/
+*.log
+
+# IDE Specific
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Optional npm cache directory
+.npm/
+
+# JetBrains IDEs
+*.iml
+.idea/
+*.iws
+.idea/
+
+# Miscellaneous
+coverage/
+*.orig
+*.rej
+*.bak

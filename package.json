@@ -1,0 +1,18 @@
+{
+  "name": "microfinance-gql",
+  "version": "1.0.0",
+  "description": "A lightweight GraphQL API designed to efficiently serve data for a microfinance mobile application. This backend is built with Apollo Server and integrates seamlessly with an existing REST API to provide optimized, offline-capable data access.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^3.7.0",
+    "apollo-server": "^3.13.0",
+    "axios": "^1.7.9",
+    "graphql": "^16.9.0"
+  }
+}
